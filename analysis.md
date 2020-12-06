@@ -12,7 +12,10 @@ There was a 30 to 40% drop in movements by Australians from March to April.
 
 Even before the Australian Government closed the borders (on the 20th March) people were moving less. 
 
+(Adams, Adams & Bastiampillai 2020) confirm "populations reduced their movement before and even without stay-at-home orders." Possible reasons for this include, "global media coverage reiterating virus seriousness, broadcasting almost real-time images of full intensive care units and dying families into people's living rooms, in conjunction with minor public health restrictions, sparked fear and drove mass behaviour change."
+
 By the end of March, the Australian Government's border closures, contact tracing and isolation began to slow to spread of the coronavirus. 
+
 In early April Australians began to increase their movements, which also coincides with the start of school holidays. After weeks of lock down we all needed a break and we started to move again.
 
 By the end of June, Queenslanders and Northern Territorians were no longer restricting their movements and actually began to move more in comparison to the baseline period. 
@@ -35,6 +38,8 @@ Gradually since early August, Victorians have been increasingly mobile, which re
 On 16 November South Australia reintroduced "significant restrictions" after an outbreak of coronavirus in Adelaide. 
 
 It was short lived, and on the 21st November, South Australia ended its lockdown. These changes are viewable in the graph by the dip in movement to -29%, followed by an increase in movements reflecting the end of the lockdown.  
+
+Mobility data are a tool for monitoring population behaviour that informs public health action. 
 
 <b>Explore the interactive maps on the 'Map' or 'Heatmap' tab to understand movement patterns of people in your area during the covid pandemic. </b>
 

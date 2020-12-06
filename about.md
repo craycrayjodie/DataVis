@@ -1,11 +1,11 @@
 <h2>Objectives</h2>
-This simple app was designed to demonstrate how to create a visualization dashboard/application/storyboard that will tell a compelling story using open data. I achieved this affect through use of various R libraries including leaflet and highcharter for interactive features. 
+This simple app was designed to demonstrate how to create a visualisation dashboard/application/storyboard that will tell a compelling story using open data. I achieved this affect through use of various R libraries including leaflet and highcharter for interactive features. 
 
 <h3>The Data</h3>
 The data is sourced from the <a href="https://dataforgood.fb.com/tools/movement-range-maps/">Facebook for Good</a> website.
 Movement Range Maps inform researchers and public health experts about how populations are responding to physical distancing measures. The Change in Movement metric looks at how much people are moving around and compares it to a baseline period that predates most social distancing measures. 
 
-For Australian data,  we are using four weeks of February, from the 2nd to the 29th, as a baseline period. 
+For Australian data,  Facebook are using four weeks of February, from the 2nd to the 29th, as a baseline period. 
 
 This visualization uses level 2 divisions from the Database of Global Administrative Areas (GADM) from the <a href="https://gadm.org/download_country_v3.html">GADM</a> website. The data are freely available for academic use and other non-commercial use. Redistribution, or commercial use is not allowed without prior permission.
 
@@ -31,9 +31,11 @@ This software is released under a <a href="https://creativecommons.org/licenses/
 
 <h4>References</h4>
 
+Adams, L, Adams, RJ & Bastiampillai, T 2020, 'Australia can use population level mobility data to fight COVID-19',<i> Medical Journal of Australia</i>, vol. 213, no. 7, p. 296.
+
 <i>COVID-19 pandemic in Australia</i> 2020, Wikipedia.
 
-Fevre, GL n.d., <i>The Mineral Resource Boom and the Economy of South West Queensland - National Institute of Economic and Industry Research,</i> viewed 3 December 2020, <https://nieir.com.au/the-mineral-resource-boom-and-the-economy-of-south-west-queensland/>.
+Fevre, GL n.d., <i>The Mineral Resource Boom and the Economy of South West Queensland - National Institute of Economic and Industry Research,</i> viewed 3 December 2020, < https://nieir.com.au/the-mineral-resource-boom-and-the-economy-of-south-west-queensland/ >.
 
 Newsletter, 2020 Copyright Grattan Institute Facebook | Twitter | Email
 n.d.,<i>Coming out of COVIID-19 lockdown: the next steps for Australian health care,</i> Grattan Institute. 
